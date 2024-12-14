@@ -3,6 +3,9 @@ Let us assume that we are at the end of 2018, and a new client wishes to be info
 
 # Folders Info:
 1.The 'data' folder contains csv files where we get the info about e-commerce in Brazil
+
 2.The 'clean' folder contains a Python file which have the total DataFrame that we worked on.
+
 3.The 'analysis' folder contains a Python file that contains all the code that we run to our analysis ,to take the information that we need.
+
 4.The 'presentation' file contains the presentation of our analysis based on graphs from different types of analysis that we did.
