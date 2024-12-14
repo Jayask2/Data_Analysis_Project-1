@@ -1,2 +1,3 @@
-# Exploration Data Analytics Project-Brazilian E-Commerce Analysis
-Working with Giorgos Kastoras,Danai Vernadaki
+# Exploration Data Analytics Project
+## Title: Brazilian E-Commerce Analysis
+## Teamates:Giorgos Kastoras,Danai Vernadaki
