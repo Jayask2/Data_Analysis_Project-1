@@ -1,4 +1,4 @@
 # Exploration Data Analytics Project
-## Title: Brazilian E-Commerce Analysis
-### Teamates:Giorgos Kastoras,Danai Vernadaki
+## Title : Brazilian E-Commerce Analysis
+## Team Members : Iasonas AskounisGiorgos Kastoras,Danai Vernadaki
 
